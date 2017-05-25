@@ -4,14 +4,14 @@ Pod::Spec.new do |s|
 
 
   s.name         = "GetMoreDetail"
-  s.version      = "0.0.8"
+  s.version      = "0.0.1"
   s.summary      = "all kinds of categories for iOS develop"
 
   s.description  = <<-DESC
                       this project provide all kinds of categories for iOS developer 
                    DESC
 
-  s.homepage     = "https://github.com/lihongliangAndliyan/TestKVO"
+  s.homepage     = "https://github.com/xiaowanzhi/GetMoreDetail"
 
   s.license      = "MIT"
   s.license      = { :type => "MIT", :file => "LICENSE" }
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
 
-  s.source       = { :git => "https://github.com/lihongliangAndliyan/TestKVO.git", :tag => "0.0.8" }
+  s.source       = { :git => "https://github.com/xiaowanzhi/GetMoreDetail.git", :tag => "0.0.1" }
 
 
   s.source_files  = "Classes", "GetMoreDetail/*.{h,m}"
